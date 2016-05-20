@@ -1,6 +1,6 @@
 ### RailsGirls KL Idea App
 
-This is the idea app based on the [RailsGirls Guide](http://guides.railsgirls.com/app/).
+This is the idea app based on the [RailsGirls Guide](http://guides.railsgirls.com/app).
 
 ###### How to clone this project?
 
